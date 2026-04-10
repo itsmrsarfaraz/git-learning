@@ -1,3 +1,3 @@
 Hello Git
-Second Line
+Second line - from conflict branch
 Feature greeting line
