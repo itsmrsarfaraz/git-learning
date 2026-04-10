@@ -1,3 +1,5 @@
 Hello Git
-Second Line - from main branch
+<<<<<<< HEAD
+Second Line - resolved properly 
+>>>>>>> conflict-branch
 Feature greeting line
