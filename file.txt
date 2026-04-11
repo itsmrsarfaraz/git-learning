@@ -2,3 +2,4 @@ Hello Git
 Second Line - resolved properly 
 Feature greeting line
 PR workflow line
+Main new line
