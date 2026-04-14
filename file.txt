@@ -7,3 +7,4 @@ Temporary work
 Bad Line
 Distance pricing: enable
 Hotfix: corrected base for bug
+Criticle code
