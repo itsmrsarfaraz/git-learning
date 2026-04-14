@@ -8,4 +8,5 @@ Bad Line
 Distance pricing: enable
 Hotfix: corrected base for bug
 Vehicle multiplier: enable
-
+Criticle code
+Hotfix clash cleared
